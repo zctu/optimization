@@ -1,2 +1,2 @@
 # optimization
-optimization algorithms by python
+This repository is designed to rewrite optimization algorithms in pytorch.
